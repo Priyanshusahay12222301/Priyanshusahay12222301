@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sahay</h1>
 <h3 align="center">Final Year CSE Student | MERN Stack & AI Enthusiast | Top 10 Smart India Hackathon | Winner Codex Fest 2.0 | Finalist Arena Hackathon</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://user-images.githubusercontent.com/12532091/135541406-7141a8d7-7bf9-4c82-a4d9-ea4b7fe1fb34.jpg)">
 
 ---
 
