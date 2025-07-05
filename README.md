@@ -8,14 +8,13 @@
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshu-sahay" target="blank">
-    <h1> LinkedIn </h1>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <h2> LinkedIn </h2> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <h1>Email</h1>
+  <h2>Email</h2>
   <a href="mailto:priyanshusahay90@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
-  <h1>LeetCode</h1>
+  <h2>LeetCode</h2>
   <a href="https://leetcode.com/priyanshusahay/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
