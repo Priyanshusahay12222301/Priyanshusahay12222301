@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **real-world cybersecurity challenges and research collaborations.**
 
-- 👨‍💻 All of my projects are available at [https://amit-portfolio-opal.vercel.app/](https://amit-portfolio-opal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amit-portfolio-opal.vercel.app/](https://priyanshusahay.vercel.app/)
 
 - 💬 Ask me about **Penetration Testing & Ethical Hacking**
 
 - 📫 How to reach me **Avig58993@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hyQ-jX91Yrs9lMDLqSAkHsf1QyCMt0xu/view?usp=sharing](https://drive.google.com/file/d/1hyQ-jX91Yrs9lMDLqSAkHsf1QyCMt0xu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hyQ-jX91Yrs9lMDLqSAkHsf1QyCMt0xu/view?usp=sharing](https://drive.google.com/file/d/1jH4Re5t97GjvVhM3hMSJvYkIPCV4MHHr/view?usp=drive_link)
 
 - ⚡ Fun fact **I love hacking (ethically) and solving CTF challenges in my free time.**
 
