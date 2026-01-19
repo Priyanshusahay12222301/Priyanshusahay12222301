@@ -2,19 +2,28 @@
 <h3 align="center">Full Stack Developer | Computer Science Engineer | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student  
-- 💻 Full Stack Developer (React • Node.js • MongoDB)  
-- 🌱 Currently learning **Cloud Computing & CI/CD**  
-- 🛠️ Love building **scalable, real-world applications**  
+- 🎓 B.Tech Computer Science & Engineering student at Lovely Professional University  
+- 💻 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**  
+- 🌱 Currently learning **Cloud Computing, CI/CD & scalable system design**  
+- 🛠️ Passionate about building **real-world, production-ready applications**  
 - 🏆 Hackathon Winner | Competitive Programmer  
-- ⚡ Fun fact: I enjoy turning ideas into working products  
+- ⚡ Fun fact: I enjoy solving problems and turning ideas into products  
+
+---
+
+## 🧑‍💻 What I’m Working On
+
+- 🔭 Building **full-stack web applications** with modern JavaScript frameworks  
+- 🌱 Improving backend performance & API design  
+- 👯 Open to collaborating on **Full Stack / Web Projects**  
+- 🤝 Interested in **software engineering internships & roles**  
 
 ---
 
@@ -37,7 +46,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages and Tools
 
 ### 💻 Frontend
 <p>
@@ -81,7 +90,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
@@ -89,4 +98,4 @@
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Build clean. Think scalable. Ship fast.”*
