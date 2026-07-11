@@ -1,32 +1,41 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sahay</h1>
 
 <h3 align="center">
-Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
+Full Stack Developer | Computer Science Engineer | India 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priyanshusahay12222301">
-    <img src="https://img.shields.io/github/followers/Priyanshusahay12222301?label=Followers&style=social"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Priyanshusahay12222301?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Priyanshusahay12222301?style=for-the-badge"/>
 </p>
-
----
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering student at **Lovely Professional University**
+🎓 B.Tech Computer Science & Engineering student at **Lovely Professional University**
 
-💻 Passionate Full Stack Developer focused on building scalable web applications.
+💻 Passionate Full Stack Developer specializing in **React.js, Node.js, Express.js and MongoDB**
 
-🌱 Currently learning **Cloud Computing, CI/CD and System Design**
+🌱 Currently learning
+
+- Cloud Computing
+- CI/CD
+- System Design
+
+👨‍💻 Interested in
+
+- Backend Development
+- Software Engineering
+- Open Source
+- Scalable Web Applications
 
 📚 Solving Data Structures & Algorithms on CodeChef and LeetCode.
 
-🤝 Looking for **Software Engineer Internship** and **Full-Time Opportunities**.
+🤝 Open to Internship & Full-Time Opportunities.
 
 ---
 
@@ -34,11 +43,11 @@ Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/priyanshu-sahay/" target="_blank">
+<a href="https://www.linkedin.com/in/priyanshu-sahay/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/Priyanshusahay12222301" target="_blank">
+<a href="https://github.com/Priyanshusahay12222301">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
@@ -46,12 +55,12 @@ Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://www.codechef.com/users/tight_trail_08" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef/5B4638" height="42"/>
+<a href="https://leetcode.com/u/pantherp123/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
 </a>
 
-<a href="https://leetcode.com/u/pantherp123/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+<a href="https://www.codechef.com/users/tight_trail_08">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" height="42"/>
 </a>
 
 </p>
@@ -60,10 +69,10 @@ Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python,php"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,php"/>
 </p>
 
 ### Frontend
@@ -111,7 +120,6 @@ Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 <img src="https://streak-stats.demolab.com?user=Priyanshusahay12222301&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -121,50 +129,51 @@ Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshusahay12222301&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshusahay12222301&theme=algolia"/>
+<img src="https://raw.githubusercontent.com/Priyanshusahay12222301/Priyanshusahay12222301/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
 ---
 
 # 📌 Featured Projects
 
-## 🚗 Rent Wheels
+### 🚗 Rent Wheels
 
 A Full Stack Car Rental Platform built using Java Spring Boot, Angular and MySQL.
 
 ---
 
-## 🍽 Smart Serve
+### 🍽 Smart Serve
 
-Restaurant Management System with Authentication, Role-based Access Control and Order Management.
-
----
-
-## 🌱 Agro Buddy
-
-AI-powered Plant Disease Detection System using Machine Learning.
+Restaurant Management System with Role-Based Authentication and Order Management.
 
 ---
 
-## ♻️ E-Waste Management System
+### 🌱 Agro Buddy
 
-Platform for efficient E-Waste collection and recycling.
+AI-powered Plant Disease Detection using Machine Learning.
 
 ---
 
-# 📈 Coding Profiles
+### ♻️ E-Waste Management System
 
-- 💻 **GitHub:** https://github.com/Priyanshusahay12222301
-- 🍛 **CodeChef:** https://www.codechef.com/users/tight_trail_08
-- ⚡ **LeetCode:** https://leetcode.com/u/pantherp123/
+Platform for efficient E-Waste Collection and Recycling.
+
+
+---
+
+# 🏅 Coding Profiles
+
+🍛 CodeChef:
+https://www.codechef.com/users/tight_trail_08
+
+⚡ LeetCode:
+https://leetcode.com/u/pantherp123/
 
 ---
 
@@ -172,7 +181,7 @@ Platform for efficient E-Waste collection and recycling.
 
 <p align="center">
 
-> **"Code. Learn. Build. Repeat. 🚀"**
+### ⭐ "Code. Learn. Build. Repeat."
 
 </p>
 
@@ -180,8 +189,8 @@ Platform for efficient E-Waste collection and recycling.
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+Thanks for visiting my profile ❤️
 
-If you like my work, don't forget to ⭐ my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
