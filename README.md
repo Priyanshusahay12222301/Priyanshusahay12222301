@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sahay</h1>
 
 <h3 align="center">
-Full Stack Developer • Computer Science Engineer • India 🇮🇳
+Full Stack Developer • Computer Science Engineering Student • India 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Priyanshusahay12222301">
+    <img src="https://img.shields.io/github/followers/Priyanshusahay12222301?label=Followers&style=social"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering at **Lovely Professional University**
-- 💻 Full Stack Developer specializing in **React.js, Node.js, Express.js & MongoDB**
-- 🌱 Currently learning **Cloud Computing, CI/CD and System Design**
-- 🚀 Passionate about building scalable and user-friendly web applications
-- 📚 Solving DSA problems on CodeChef & LeetCode
-- 🤝 Open to **Software Engineer Internship** and **Full-Time Opportunities**
+🎓 B.Tech Computer Science Engineering student at **Lovely Professional University**
 
----
+💻 Passionate Full Stack Developer focused on building scalable web applications.
 
-# 💼 What I'm Working On
+🌱 Currently learning **Cloud Computing, CI/CD and System Design**
 
-- 🔭 Building MERN Stack Applications
-- ⚡ Improving Backend APIs & Database Performance
-- 📚 Practicing Data Structures & Algorithms
-- ☁️ Learning Cloud Computing & DevOps
+📚 Solving Data Structures & Algorithms on CodeChef and LeetCode.
+
+🤝 Looking for **Software Engineer Internship** and **Full-Time Opportunities**.
 
 ---
 
@@ -42,6 +42,10 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
+<a href="mailto:priyanshusahay90@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 <a href="https://www.codechef.com/users/tight_trail_08" target="_blank">
 <img src="https://cdn.simpleicons.org/codechef/5B4638" height="42"/>
 </a>
@@ -50,41 +54,37 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
 </a>
 
-<a href="mailto:priyanshusahay90@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
 </p>
 
 ---
 
-# 🛠 Languages & Tools
+# 💻 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,java,js,python,php"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄 Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### ☁️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -92,7 +92,7 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -128,7 +128,7 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshusahay12222301&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshusahay12222301&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
 
 </p>
 
@@ -136,25 +136,43 @@ Full Stack Developer • Computer Science Engineer • India 🇮🇳
 
 # 📌 Featured Projects
 
-### 🚗 Rent Wheels
-A full-stack car rental platform built using Java Spring Boot, Angular and MySQL.
+## 🚗 Rent Wheels
 
-### 🌱 Agro Buddy
-AI-powered plant disease detection system using Machine Learning.
-
-### 🍽 Smart Serve
-Restaurant management system with role-based authentication and order management.
-
-### ♻️ E-Waste Management System
-Platform for efficient e-waste collection and recycling.
+A Full Stack Car Rental Platform built using Java Spring Boot, Angular and MySQL.
 
 ---
 
-# 💡 Quote
+## 🍽 Smart Serve
+
+Restaurant Management System with Authentication, Role-based Access Control and Order Management.
+
+---
+
+## 🌱 Agro Buddy
+
+AI-powered Plant Disease Detection System using Machine Learning.
+
+---
+
+## ♻️ E-Waste Management System
+
+Platform for efficient E-Waste collection and recycling.
+
+---
+
+# 📈 Coding Profiles
+
+- 💻 **GitHub:** https://github.com/Priyanshusahay12222301
+- 🍛 **CodeChef:** https://www.codechef.com/users/tight_trail_08
+- ⚡ **LeetCode:** https://leetcode.com/u/pantherp123/
+
+---
+
+# 💬 Quote
 
 <p align="center">
 
-### **"Code. Learn. Build. Repeat. 🚀"**
+> **"Code. Learn. Build. Repeat. 🚀"**
 
 </p>
 
@@ -162,6 +180,8 @@ Platform for efficient e-waste collection and recycling.
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to connect with me.
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
