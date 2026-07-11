@@ -1,196 +1,103 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sahay</h1>
-
-<h3 align="center">
-Full Stack Developer | Computer Science Engineer | India 🇮🇳
-</h3>
+<h3 align="center">Full Stack Developer | Computer Science Engineer | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshusahay12222301&label=Profile+Views&color=blue&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Priyanshusahay12222301?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Priyanshusahay12222301?style=for-the-badge"/>
-</p>
-
-# 🚀 About Me
-
-🎓 B.Tech Computer Science & Engineering student at **Lovely Professional University**
-
-💻 Passionate Full Stack Developer specializing in **React.js, Node.js, Express.js and MongoDB**
-
-🌱 Currently learning
-
-- Cloud Computing
-- CI/CD
-- System Design
-
-👨‍💻 Interested in
-
-- Backend Development
-- Software Engineering
-- Open Source
-- Scalable Web Applications
-
-📚 Solving Data Structures & Algorithms on CodeChef and LeetCode.
-
-🤝 Open to Internship & Full-Time Opportunities.
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student at Lovely Professional University  
+- 💻 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**  
+- 🌱 Currently learning **Cloud Computing, CI/CD & scalable system design**  
+- 🛠️ Passionate about building **real-world, production-ready applications**  
+- 🏆 Hackathon Winner | Competitive Programmer  
+- ⚡ Fun fact: I enjoy solving problems and turning ideas into products  
+
+---
+
+## 🧑‍💻 What I’m Working On
+
+- 🔭 Building **full-stack web applications** with modern JavaScript frameworks  
+- 🌱 Improving backend performance & API design  
+- 👯 Open to collaborating on **Full Stack / Web Projects**  
+- 🤝 Interested in **software engineering internships & roles**  
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/priyanshu-sahay/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/Priyanshusahay12222301">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:priyanshusahay90@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/pantherp123/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
-</a>
-
-<a href="https://www.codechef.com/users/tight_trail_08">
-<img src="https://cdn.simpleicons.org/codechef/5B4638" height="42"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/priyanshu-sahay/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  </a>
+  <a href="https://github.com/Priyanshusahay12222301" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="filter: invert(1);"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="35" style="filter: invert(1);"/>
+  </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🧰 Languages and Tools
 
-### Programming Languages
-
+### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,php"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
-### Frontend
-
+### 🧠 Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-### Backend
-
+### ⚙️ Tools & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshusahay12222301&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshusahay12222301&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshusahay12222301&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Priyanshusahay12222301&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshusahay12222301&layout=compact&theme=tokyonight" />
 </p>
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshusahay12222301&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshusahay12222301&theme=tokyonight" />
 </p>
+
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Priyanshusahay12222301/Priyanshusahay12222301/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
----
-
-# 📌 Featured Projects
-
-### 🚗 Rent Wheels
-
-A Full Stack Car Rental Platform built using Java Spring Boot, Angular and MySQL.
-
----
-
-### 🍽 Smart Serve
-
-Restaurant Management System with Role-Based Authentication and Order Management.
-
----
-
-### 🌱 Agro Buddy
-
-AI-powered Plant Disease Detection using Machine Learning.
-
----
-
-### ♻️ E-Waste Management System
-
-Platform for efficient E-Waste Collection and Recycling.
-
-
----
-
-# 🏅 Coding Profiles
-
-🍛 CodeChef:
-https://www.codechef.com/users/tight_trail_08
-
-⚡ LeetCode:
-https://leetcode.com/u/pantherp123/
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-<p align="center">
+⭐ *“Build clean. Think scalable. Ship fast.”*
 
-Thanks for visiting my profile ❤️
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+fix this 
