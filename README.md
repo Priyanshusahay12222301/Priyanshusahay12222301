@@ -9,21 +9,21 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student at Lovely Professional University  
-- 💻 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**  
-- 🌱 Currently learning **Cloud Computing, CI/CD & scalable system design**  
-- 🛠️ Passionate about building **real-world, production-ready applications**  
-- 🏆 Hackathon Winner | Competitive Programmer  
-- ⚡ Fun fact: I enjoy solving problems and turning ideas into products  
+- 🎓 B.Tech Computer Science & Engineering student at Lovely Professional University
+- 💻 Full Stack Developer with hands-on experience in **React, Node.js, MongoDB**
+- 🌱 Currently learning **Cloud Computing, CI/CD & scalable system design**
+- 🛠️ Passionate about building **real-world, production-ready applications**
+- 🏆 Hackathon Winner | Competitive Programmer
+- ⚡ Fun fact: I enjoy solving problems and turning ideas into products
 
 ---
 
 ## 🧑‍💻 What I’m Working On
 
-- 🔭 Building **full-stack web applications** with modern JavaScript frameworks  
-- 🌱 Improving backend performance & API design  
-- 👯 Open to collaborating on **Full Stack / Web Projects**  
-- 🤝 Interested in **software engineering internships & roles**  
+- 🔭 Building **full-stack web applications** with modern JavaScript frameworks
+- 🌱 Improving backend performance & API design
+- 👯 Open to collaborating on **Full Stack / Web Projects**
+- 🤝 Interested in **software engineering internships & roles**
 
 ---
 
@@ -33,14 +33,17 @@
   <a href="https://www.linkedin.com/in/priyanshu-sahay/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
+
   <a href="https://github.com/Priyanshusahay12222301" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+    <img src="https://skillicons.dev/icons?i=github" width="35"/>
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="filter: invert(1);"/>
+
+  <a href="https://www.codechef.com/users/tight_trail_08" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="35"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="35" style="filter: invert(1);"/>
+
+  <a href="https://leetcode.com/u/pantherp123/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35"/>
   </a>
 </p>
 
@@ -60,7 +63,7 @@
 ### 🧠 Backend & Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
@@ -68,8 +71,8 @@
 ### ⚙️ Tools & Cloud
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
 </p>
 
 ---
@@ -85,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshusahay12222301&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Priyanshusahay12222301&theme=tokyonight" />
 </p>
 
 ---
@@ -99,5 +102,3 @@
 ---
 
 ⭐ *“Build clean. Think scalable. Ship fast.”*
-
-fix this 
